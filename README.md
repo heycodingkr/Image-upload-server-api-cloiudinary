@@ -14,7 +14,7 @@ npm install
 ```sh
 node .
 ```
-5. POST IMAGE REST API to [http://localhost:3000/image/upload] an image file(key as `images` in body type as `form-data`)
+5. POST IMAGE REST API to `http://localhost:3000/image/upload` an image file(key as `images` in body type as `form-data`)
 
 
 Built with:
