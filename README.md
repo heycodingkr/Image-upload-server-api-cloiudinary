@@ -19,7 +19,7 @@ node .
 
 Built with:
 * [Loopback3.0](https://loopback.io/doc/en/lb3/)
-* [Multer Storage Cloudinary](hhttps://github.com/affanshahid/multer-storage-cloudinary#readme)
+* [Multer Storage Cloudinary](https://github.com/affanshahid/multer-storage-cloudinary)
 * [multer](https://github.com/expressjs/multer)
 * ...and many more
 
