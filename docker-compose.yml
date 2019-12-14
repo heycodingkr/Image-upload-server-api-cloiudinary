@@ -1,0 +1,13 @@
+version: '3'
+services:
+  imageUpload:
+    build:
+      context: .
+    command: npm start
+    volumes:
+      - "./common:/usr/src/auth/common"
+      - "./server:/usr/src/auth/server"
+    ports:
+      - "3007:3007"    
+
+
